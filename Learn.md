@@ -4,28 +4,28 @@
 
 ## 																		Next.js
 
-- Foundations
-  - About Next.js
-  - From JavaScript to React
-  - From React to Next.js
-  - How Next.js Works
-- Create Your First App
-  - Create a Next.js App
-  - Navigate Between Pages
-  - Assets, Metadata, and CSS
-  - Pre-rendering and Data Fetching
-  - Dynamic Routes
-  - API Routes
-  - Deploying Your Next.js App
-- Search Engine Optimization
-  - Introduction to SEO
-  - Crawling and Indexing
-  - Rendering and Ranking
-  - Performanca & Core Web Vitals
-  - Improving your Core Web Vitals
-  - Monitoring your Core Web Vitals
-- Excel
-  - TypeScript
+- [Foundations](#Foundations)
+  - [About Next.js](#1-about-nextjs)
+  - [From JavaScript to React](#2-from-javascript-to-react)
+  - [From React to Next.js](#3-from-react-to-nextjs)
+  - [How Next.js Works](#4-how-nextjs-works)
+- [Create Your First App](#create-your-first-app)
+  - [Create a Next.js App](#1-create-a-nextjs-app)
+  - [Navigate Between Pages](#2-navigate-between-pages)
+  - [Assets, Metadata, and CSS](#3-assets-metadata-and-css)
+  - [Pre-rendering and Data Fetching](#4-pre-rendering-and-data-fetching)
+  - [Dynamic Routes](#5-dynamic-routes)
+  - [API Routes](#6-api-routes)
+  - [Deploying Your Next.js App](#7-deploying-your-nextjs-app)
+- [Search Engine Optimization](#search-engine-optimization)
+  - [Introduction to SEO](#1-introduction-to-seo)
+  - [Crawling and Indexing](#2-crawling-and-indexing)
+  - [Rendering and Ranking](#3-rendering-and-ranking)
+  - [Performanca & Core Web Vitals](#4-performanca--core-web-vitals)
+  - [Improving your Core Web Vitals](#5-improving-your-core-web-vitals)
+  - [Monitoring your Core Web Vitals](#6-monitoring-your-core-web-vitals)
+- [Excel](#excel)
+  - [TypeScript](#1-typescript)
 
 
 
